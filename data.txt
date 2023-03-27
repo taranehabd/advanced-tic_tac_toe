@@ -1,0 +1,30 @@
+sahar : 9 / tina : 6 
+_____________                                                   
+tarane : 7 / ali : 7                      
+_____________                                              
+ali : 3 / sahar : 5                        
+_____________                                              
+reyhane : 5 / tina : 5                    
+_____________                                              
+tina : 2 / sina : 1                               
+_____________                                
+mina : 3 / reyhane : 2                             
+_____________                              
+maryam : 4 / navid : 3      
+_____________                        
+ali : 3 / negar : 3                   
+_____________                    
+reyhane : 2 / ali : 1                  
+_____________                   
+sahar : 1 / tara : 2                  
+_____________                  
+sahar : 7 / tarane : 1         
+_____________                  
+tina : 2 / mina : 2       
+_____________                  
+nima : 3 / sam : 2            
+_____________             
+asghar : 5 / alireza : 3
+_____________       
+tina : 4 / maryam : 3
+_____________
